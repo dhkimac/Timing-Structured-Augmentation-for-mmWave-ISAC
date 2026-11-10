@@ -1,6 +1,6 @@
 # Timing-Structured Augmentation for Activity Recognition under Irregular Wi-Fi Traffic in mmWave ISAC
 
-Code for the paper of the same title (IEEE WCNC 2027). An ISAC receiver only sees the channel at the
+Code for the paper of the same title . An ISAC receiver only sees the channel at the
 instants packets are sent, so under real Wi-Fi traffic its micro-Doppler maps are built from bursty,
 irregular samples. We train an activity classifier on uniformly sampled recordings and expose it to
 that irregularity by training on copies of every recording whose packet timing replays and perturbs
