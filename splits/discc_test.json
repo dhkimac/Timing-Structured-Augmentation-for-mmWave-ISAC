@@ -1,0 +1,206 @@
+{
+ "about": "DISC-C, 39 recordings of one subject in room A whose packet times follow recorded Wi-Fi traffic (psu_cs, library, ug) with sensing budget M. Test only.",
+ "classes": [
+  "walking",
+  "running",
+  "waving_hands",
+  "sitting_standing"
+ ],
+ "recordings": {
+  "TEST100_1_M33_F2": {
+   "label": 1,
+   "traffic": "psu_cs",
+   "M": 8
+  },
+  "TEST102_1_M33_F2": {
+   "label": 3,
+   "traffic": "psu_cs",
+   "M": 8
+  },
+  "TEST111_1_M35_F2": {
+   "label": 0,
+   "traffic": "ug",
+   "M": 16
+  },
+  "TEST112_1_M35_F2": {
+   "label": 1,
+   "traffic": "ug",
+   "M": 16
+  },
+  "TEST113_1_M35_F2": {
+   "label": 2,
+   "traffic": "ug",
+   "M": 16
+  },
+  "TEST114_1_M35_F2": {
+   "label": 3,
+   "traffic": "ug",
+   "M": 16
+  },
+  "TEST116_1_M36_F2": {
+   "label": 0,
+   "traffic": "library",
+   "M": 4
+  },
+  "TEST117_1_M36_F2": {
+   "label": 1,
+   "traffic": "library",
+   "M": 4
+  },
+  "TEST118_1_M36_F2": {
+   "label": 2,
+   "traffic": "library",
+   "M": 4
+  },
+  "TEST119_1_M36_F2": {
+   "label": 3,
+   "traffic": "library",
+   "M": 4
+  },
+  "TEST120_1_M37_F2": {
+   "label": 0,
+   "traffic": "ug",
+   "M": 4
+  },
+  "TEST121_1_M37_F2": {
+   "label": 1,
+   "traffic": "ug",
+   "M": 4
+  },
+  "TEST122_1_M37_F2": {
+   "label": 2,
+   "traffic": "ug",
+   "M": 4
+  },
+  "TEST123_1_M37_F2": {
+   "label": 3,
+   "traffic": "ug",
+   "M": 4
+  },
+  "TEST124_1_M38_F2": {
+   "label": 0,
+   "traffic": "library",
+   "M": 8
+  },
+  "TEST125_1_M38_F2": {
+   "label": 1,
+   "traffic": "library",
+   "M": 8
+  },
+  "TEST127_1_M38_F2": {
+   "label": 3,
+   "traffic": "library",
+   "M": 8
+  },
+  "TEST128_1_M39_F2": {
+   "label": 0,
+   "traffic": "ug",
+   "M": 8
+  },
+  "TEST129_1_M39_F2": {
+   "label": 1,
+   "traffic": "ug",
+   "M": 8
+  },
+  "TEST130_1_M39_F2": {
+   "label": 2,
+   "traffic": "ug",
+   "M": 8
+  },
+  "TEST131_1_M39_F2": {
+   "label": 3,
+   "traffic": "ug",
+   "M": 8
+  },
+  "TEST140_1_M42_F2": {
+   "label": 0,
+   "traffic": "library",
+   "M": 32
+  },
+  "TEST141_1_M42_F2": {
+   "label": 1,
+   "traffic": "library",
+   "M": 32
+  },
+  "TEST142_1_M42_F2": {
+   "label": 2,
+   "traffic": "library",
+   "M": 32
+  },
+  "TEST143_1_M42_F2": {
+   "label": 3,
+   "traffic": "library",
+   "M": 32
+  },
+  "TEST144_1_M43_F2": {
+   "label": 0,
+   "traffic": "ug",
+   "M": 32
+  },
+  "TEST145_1_M43_F2": {
+   "label": 1,
+   "traffic": "ug",
+   "M": 32
+  },
+  "TEST146_1_M43_F2": {
+   "label": 2,
+   "traffic": "ug",
+   "M": 32
+  },
+  "TEST147_1_M43_F2": {
+   "label": 3,
+   "traffic": "ug",
+   "M": 32
+  },
+  "TEST83_1_M29_F2": {
+   "label": 0,
+   "traffic": "psu_cs",
+   "M": 16
+  },
+  "TEST84_1_M29_F2": {
+   "label": 1,
+   "traffic": "psu_cs",
+   "M": 16
+  },
+  "TEST86_1_M29_F2": {
+   "label": 3,
+   "traffic": "psu_cs",
+   "M": 16
+  },
+  "TEST91_1_M31_F2": {
+   "label": 0,
+   "traffic": "psu_cs",
+   "M": 32
+  },
+  "TEST92_1_M31_F2": {
+   "label": 1,
+   "traffic": "psu_cs",
+   "M": 32
+  },
+  "TEST94_1_M31_F2": {
+   "label": 3,
+   "traffic": "psu_cs",
+   "M": 32
+  },
+  "TEST95_1_M32_F2": {
+   "label": 0,
+   "traffic": "psu_cs",
+   "M": 4
+  },
+  "TEST96_1_M32_F2": {
+   "label": 1,
+   "traffic": "psu_cs",
+   "M": 4
+  },
+  "TEST98_1_M32_F2": {
+   "label": 3,
+   "traffic": "psu_cs",
+   "M": 4
+  },
+  "TEST99_1_M33_F2": {
+   "label": 0,
+   "traffic": "psu_cs",
+   "M": 8
+  }
+ }
+}
